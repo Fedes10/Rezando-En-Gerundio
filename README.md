@@ -17,9 +17,9 @@
 
 © 2026 Fedes10
 -->
-# HakunaPringadoWeb
-Web Pringado Hakuna
-[![WEB Pringado](https://img.shields.io/badge/WebPringado-Ver%20Web-yellow)](https://fedes10.github.io/HakunaPringadoWeb/)
+# Rezar En Gerundio
+Rezar En Gerundio
+[![WEB](https://img.shields.io/badge/WebRezarEnGerundio-Ver%20Web-yellow)](https://fedes10.github.io/HakunaPringadoWeb/)
 
 Proyecto web extraoficial inspirado en oraciones de Hakuna, pensado para ayudar a crear una rutina diaria sencilla de oracion: empezar y terminar el dia con entrega. No pretende sustituir la web original, sino ser una herramienta alternativa para quien busca un punto de partida.
 
